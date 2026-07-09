@@ -1,0 +1,30 @@
+{
+  "stage_id": "1013R_R223N_P2_TEACHER_LANGUAGE_HUMANIZATION_AND_LABEL_DETECHNICALIZATION",
+  "source_stage_id": "1013R_R223N_P1_PROCESS_READABILITY_STRUCTURING",
+  "created_at_utc": "2026-07-09T10:55:32.054793+00:00",
+  "change_type": "teacher_language_humanization_and_label_detechnicalization_only",
+  "files": [
+    "R223N_P2_teacher_default_reading_draft_v3.md",
+    "R223N_P2_teacher_default_reading_draft_v3.html",
+    "R223N_P2_teacher_default_reading_draft_v3_screenshot.png",
+    "R223N_P2_browser_smoke_result.json",
+    "R223N_P2_label_humanization_rules.md",
+    "R223N_P2_template_phrase_cleanup_report.md",
+    "R223N_P2_before_after_compare_with_P1.md",
+    "R223N_P2_report.md",
+    "validate_1013R_R223N_P2_teacher_language_humanization.py",
+    "validate_1013R_R223N_P2_teacher_language_humanization_result.json",
+    "PACKAGE_MANIFEST.json",
+    "README_FOR_GPT_REVIEW.md"
+  ],
+  "boundary": {
+    "preview_only": true,
+    "teacher_confirmed": false,
+    "formal_apply_allowed": false,
+    "r97b_modified": false,
+    "ui_modified": false,
+    "runtime_connected": false,
+    "provider_model_connected": false,
+    "database_written": false
+  }
+}
